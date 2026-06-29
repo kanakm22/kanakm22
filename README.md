@@ -22,9 +22,7 @@
 <h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,nextjs,tailwind,html,css,js,redux,docker,githubactions,aws,mysql,canva,py,c,cpp" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,vite,nextjs,tailwind,html,css,js,redux,docker,githubactions,aws,mysql,canva,py,c,cpp" />
 </p>
 
 ---
