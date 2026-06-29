@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
   </a>
   <a href="https://www.instagram.com/kanakkk_maurya/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" height="30">
-  </a>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30">
+</a>
 </p>
 
 <h3 align="center">🛠️ Languages-Frameworks-Tools 🛠️</h3>
