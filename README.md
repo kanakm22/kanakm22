@@ -1,7 +1,7 @@
 # Hi, I'm Kanak Maurya 👋
 
 🎓 B.Tech Robotics & Automation @ NIT Kurukshetra  
-💻 Full-Stack Developer | AI/ML Enthusiast | Research Intern
+💻 Full-Stack Developer | ML Enthusiast 
 
 I enjoy building scalable web applications, AI-powered systems, and
 data-driven solutions. Currently exploring machine learning for
@@ -17,7 +17,7 @@ hyperspectral soil property prediction.
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" height="40"/>
 
 **Frontend & Backend:**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="40"/> REST APIs
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" height="40"/> 
 
 **Databases:**  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" height="40"/>
@@ -52,11 +52,3 @@ hyperspectral soil property prediction.
 </p>
 
 
-
-## 📫 Connect With Me
-
-📧 [Email](mailto:kanakmaurya22@gmail.com)
-
-💼 [LinkedIn](https://www.linkedin.com/in/kanak-maurya22/)
-
-💻 [GitHub](https://github.com/kanakm22)
